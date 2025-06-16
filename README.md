@@ -6,9 +6,9 @@ toastonrye's AE2 One Stack Blaster or TAOSB for short :)
 This script has one main goal, to relocate items with a max stack size of 1, from the main AE2 system to a subnet.
 
 [WARNING]
-Always make a SAVE BACKUP! I have tested this script quite a bit in my world save.
-I've not witnessed any issues with items going missing, but be safe!
-The ME Bridge peripheral appears to not send items if the destination inventory is full.. Which is great!
+- Always make a SAVE BACKUP! I have tested this script quite a bit in my world save.
+- I've not witnessed any issues with items going missing, but be safe!
+- The ME Bridge peripheral appears to not send items if the destination inventory is full.. Which is great!
 
 [REQUIREMENTS]
 1. This script requires the following mods; Applied Energistics 2(AE2), Advanced Peripherals(AP), CC:Tweaked(CC)
