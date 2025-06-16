@@ -2,7 +2,7 @@
 
 # taosb
 toastonrye's AE2 One Stack Blaster or TAOSB for short :)
-description: This script has one main goal, to relocate items with a max stack size of 1, from the main AE2 system to a subnet.
+This script has one main goal, to relocate items with a max stack size of 1, from the main AE2 system to a subnet.
 
 [WARNING]
 Always make a SAVE BACKUP! I have tested this script quite a bit in my world save.
