@@ -1,3 +1,5 @@
+![taosb-diagram](https://github.com/user-attachments/assets/9003dbd8-a6cc-4e95-a5f5-e92ab1a05934)
+
 # taosb
 toastonrye's AE2 One Stack Blaster or TAOSB for short :)
 description: This script has one main goal, to relocate items with a max stack size of 1, from the main AE2 system to a subnet.
@@ -31,3 +33,4 @@ The ME Bridge peripheral appears to not send items if the destination inventory 
 [KNOWN ISSUES OR BUGS]
 1. filtering - some mods like Ars Nouveau use 'minecraft:potion' so the white/black list filtering doesn't always work.
 2. probably should add some sort of AE2 network offline situation?
+
